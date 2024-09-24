@@ -16,6 +16,23 @@ USE imdb;
 
 -- Number of rows = 3867
 SELECT COUNT(*) FROM DIRECTOR_MAPPING;
+-- Number of rows = 3867
+SELECT COUNT(*) FROM DIRECTOR_MAPPING;
+
+-- Number of rows = 14662
+SELECT COUNT(*) FROM GENRE ;
+
+-- Number of rows = 7997
+SELECT COUNT(*) FROM  MOVIE;
+
+-- Number of rows = 25735
+SELECT COUNT(*) FROM  NAMES;
+
+-- Number of rows = 7997
+SELECT COUNT(*) FROM  RATINGS;
+
+-- Number of rows = 15615
+SELECT COUNT(*) FROM  ROLE_MAPPING;
 
 
 
